@@ -1,4 +1,4 @@
-### Hi there, I'm Han ✨👩🏻‍💻 
+### Hi there, I'm Han 👩🏻‍💻 
 I'm a 1st gen., Computer Science graduate from California State Univesity, Long Beach. 
 Outside of coding, I am highly involved with DEI initiatives such as [Girls Who Code](https://girlswhocode.com/) and [STEM Advantage](https://stemadvantage.org/). 
 
