@@ -1,9 +1,8 @@
 ### Hi there, I'm Han 👩🏻‍💻 
 <img src="https://github.com/hanpm/hanpm/blob/main/github-readme-banner.png?raw=true" alt="Readme banner"></img>
-<div>
+
   I'm a 1st gen., Computer Science graduate from California State Univesity, Long Beach. 
 Outside of coding, I am highly involved with DEI initiatives such as [Girls Who Code](https://girlswhocode.com/) and [STEM Advantage](https://stemadvantage.org/).
-</div>
 
 
 ### ✨ More about me ✨
