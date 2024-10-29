@@ -8,5 +8,4 @@ Outside of coding, I am highly involved with DEI initiatives such as [Girls Who 
 ### ✨ More about me ✨
 - 🌱 Currently learning more about full-stack development and the cloud.
 - 👩🏻‍💻 Seeking my 1st full-time SWE role where I can collaborate with compassionate individuals on innovative, creative projects.
-- ⚡ Fun fact: I enjoy reading, drawing/painting, and tarot reading. Currently learning how to play pickleball as well! 
 
